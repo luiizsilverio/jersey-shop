@@ -1,4 +1,4 @@
-# MY-GAMES 🎮
+# JERSEY-SHOP
 
 Primeiro projeto (dos 4) do curso [REACT JS Curso Rápido 2024 com Redux, Firebase e TypeScript](https://www.udemy.com/course/react-js-completo-com-redux-toolkit-firebase-git-e-typescript/), do professor Ivan Lourenço Gomes. <br />
 Primeira vez que eu uso event.stopPropagation() no React.<br/>
